@@ -1,4 +1,4 @@
-# Meet2Share Chat App
+# Baso Chat App
 
 > A feature-rich AI chat application built with Flutter, powered by the Google Gemini API, featuring voice input, file sharing, and local conversation history.
 
@@ -10,7 +10,7 @@
 
 ## What Is This?
 
-Meet2Share Chat App is a mobile application designed to provide an intelligent conversational interface using the Google Gemini AI. It goes beyond simple text chat by incorporating voice-to-text functionality, file attachments, and a conversational memory backed by a local SQLite database, ensuring your chat history is saved securely on your device.
+Baso Chat App is a mobile application designed to provide an intelligent conversational interface using the Google Gemini AI. It goes beyond simple text chat by incorporating voice-to-text functionality, file attachments, and a conversational memory backed by a local SQLite database, ensuring your chat history is saved securely on your device.
 
 ---
 
