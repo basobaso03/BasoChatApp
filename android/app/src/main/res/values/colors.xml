@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <!-- You could also define your original splash_color here if needed -->
+    <!-- <color name="splash_color">#22f5d9</color> -->
+	<color name="ic_launcher_background">#080C14</color>
+</resources>
